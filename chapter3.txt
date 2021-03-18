@@ -1,0 +1,1 @@
+in machine learning, data plays an indispensable role, and the learning algorithm is used to discover and learn knowledge or properties from the data.
